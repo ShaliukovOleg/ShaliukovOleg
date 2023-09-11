@@ -105,3 +105,9 @@
     </td>
   </tr>
 </table>
+
+### 🛠 Разбор различных задач Codewars по уровням:
+- [5 kyu](https://github.com/ShaliukovOleg/CodeWars-5-kyu-Solution-Explanation)
+- [6 kyu](https://github.com/ShaliukovOleg/CodeWars-6-kyu-Solution-Explanation)
+- [7 kyu](https://github.com/ShaliukovOleg/CodeWars-7-kyu-Solution-Explanation)
+- [8 kyu](https://github.com/ShaliukovOleg/CodeWars-8-kyu-Solution-Explanation)
