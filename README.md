@@ -107,6 +107,7 @@
 </table>
 
 ### 🛠 Разбор различных задач Codewars по уровням:
+- [4 kyu](https://github.com/ShaliukovOleg/CodeWars-4-kyu-Solution-Explanation)
 - [5 kyu](https://github.com/ShaliukovOleg/CodeWars-5-kyu-Solution-Explanation)
 - [6 kyu](https://github.com/ShaliukovOleg/CodeWars-6-kyu-Solution-Explanation)
 - [7 kyu](https://github.com/ShaliukovOleg/CodeWars-7-kyu-Solution-Explanation)
