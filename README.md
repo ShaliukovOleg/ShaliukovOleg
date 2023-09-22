@@ -19,16 +19,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
-Проходил стажировку в “IT edition” в конце 2022 года и разрабатывал внутренний сервис для организации информации и задач.
-В 2023 нашел ментора, который помог мне со структуризацией информации (так как её было довольно много). Прохожу курсы на платформе udemi, параллельно прорабатывая все непонятные моменты с ментором.
-А вообще мой путь в IT начался в 2016 году. Работал системным администратором (asterisk/linux/docker(немного)/winServer2007-2016). После определенного времени проведенного в данной сфере мне начала нравится frontend разработка.
+Я начинающий Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. <br/>
+Проходил стажировку в “IT edition” в конце 2022 года и разрабатывал внутренний сервис для организации информации и задач.<br/>
+
+В 2023 нашел ментора, который помог мне со структуризацией информации (так как её было довольно много). Прохожу курсы на платформе udemi, параллельно прорабатывая все непонятные моменты с ментором.<br/>
+А вообще мой путь в IT начался в 2016 году. Работал системным администратором (asterisk/linux/docker(немного)/winServer2007-2016). После определенного времени проведенного в данной сфере мне начала нравится frontend разработка.<br/>
 
 В настоящий момент нахожусь в поиске работы, параллельно изучая фреймворк react и различные библиотеки JS для анимаций.
 
-#### :telescope: Проходил стажировку в течении 3 месяцев в 2022 году. (Изучал HTML/CSS/JS/SCSS).
-
-#### :seedling: Завершил несколько курсов по веб-разработке!
+### :seedling: Завершил несколько курсов по веб-разработке!
 - [Anton Larichev](https://www.udemy.com/course/react-nextjs) - in progress
 - [Stepik](https://stepik.org/course/38218/promo#toc?auth=login) - completed
 - [Ivan Petrichenko](https://www.udemy.com/course/javascript_full) - completed
@@ -36,7 +35,7 @@
 - [Rob Percival](https://www.udemy.com/course/the-complete-web-developer-course-2-russian) - completed
 - [Denis Astahov](https://www.udemy.com/course/linux-lpi) - completed
 
-#### :zap: Имею опыт в сфере ИТ больше 7 лет. Из них 1.5 года в сфере веб-разработки.
+### :zap: Имею опыт в сфере ИТ больше 7 лет. Из них 1.5 года в сфере веб-разработки.
 
 #### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-shaliukovoleg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cloudhermit) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:imaginationenclave@gmail.com)
 
