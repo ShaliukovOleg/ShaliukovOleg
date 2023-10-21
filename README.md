@@ -50,7 +50,7 @@
       <img src="assets/icons/Habr.svg" width="40" height="40" alt="habr"/>
     </a>
   </div>
-
+ 
 ---
 
 ### 💻 Технологии:
@@ -80,10 +80,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
-### 🎯 Codewars:
-
-![codewars](https://www.codewars.com/users/Heilagr/badges/large)
-
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -96,6 +92,10 @@
     </td>
   </tr>
 </table>
+
+### 🎯 Codewars:
+
+![codewars](https://www.codewars.com/users/Heilagr/badges/large)
 
 ### 🛠 Разбор различных задач Codewars по уровням:
 - [4 kyu](https://github.com/ShaliukovOleg/CodeWars-4-kyu-Solution-Explanation)
