@@ -98,6 +98,7 @@
 ![codewars](https://www.codewars.com/users/Heilagr/badges/large)
 
 ### 🛠 Разбор различных задач Codewars по уровням:
+- [3 kyu](https://github.com/ShaliukovOleg/CodeWars-3-kyu-Solution-Explanation)
 - [4 kyu](https://github.com/ShaliukovOleg/CodeWars-4-kyu-Solution-Explanation)
 - [5 kyu](https://github.com/ShaliukovOleg/CodeWars-5-kyu-Solution-Explanation)
 - [6 kyu](https://github.com/ShaliukovOleg/CodeWars-6-kyu-Solution-Explanation)
