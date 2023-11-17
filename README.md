@@ -5,10 +5,10 @@
 ### 🚀 Проекты:
 
 <div id="games">
-  <a href="https://ercera.github.io/2048-game" target="_blank">
+  <a href="https://shaliukovoleg.github.io/2048-game/" target="_blank">
   <img src="assets/games/2048-game.png" width="32" height="32" alt="2048-game" />
   </a>
-  <a href="https://ercera.github.io/Wordle" target="_blank">
+  <a href="https://shaliukovoleg.github.io/Wordle" target="_blank">
   <img src="assets/games/wordle-game.png" width="32" height="32" alt="Wordle" />
   </a>
 
