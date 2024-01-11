@@ -85,10 +85,10 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShaliukovOleg&layout=compact&theme=vision-friendly-dark" />
+      <img align="center" alt="Github stats" src="http://github-readme-streak-stats.herokuapp.com?user=ShaliukovOleg&theme=dark&border_radius=10" />
     </td>
     <td>
-      <img align="center" alt="Github stats" src="http://github-readme-streak-stats.herokuapp.com?user=ShaliukovOleg&theme=dark&border_radius=10" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShaliukovOleg&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
