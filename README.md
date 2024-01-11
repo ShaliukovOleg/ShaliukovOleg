@@ -25,7 +25,7 @@
 А вообще мой путь в IT начался в 2016 году. Работал системным администратором (asterisk/linux/docker(немного)/winServer2007-2016). После определенного времени проведенного в данной сфере мне начала нравится frontend разработка.<br/>
 
 В настоящий момент нахожусь в поиске работы, параллельно изучая фреймворк react и различные библиотеки JS для анимаций.
-
+ 
 ### :seedling: Завершил несколько курсов по веб-разработке!
 - [Anton Larichev](https://www.udemy.com/course/react-nextjs) - in progress
 - [Stepik](https://stepik.org/course/38218/promo#toc?auth=login) - completed
@@ -88,7 +88,7 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShaliukovOleg&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      <img align="center" alt="Github stats" src="http://github-readme-streak-stats.herokuapp.com/?user=ShaliukovOleg&theme=dark&border_radius=10" />
+      <img align="center" alt="Github stats" src="http://github-readme-streak-stats.herokuapp.com?user=ShaliukovOleg&theme=dark&border_radius=10" />
     </td>
   </tr>
 </table>
